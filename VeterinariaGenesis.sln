@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36203.30
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeterinariaGenesis", "VeterinariaGenesis.csproj", "{0AE2C164-4B05-4B4E-A812-92EC783151BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FORMSINICIO", "..\FORMSINICIO\FORMSINICIO.csproj", "{9799E1CF-084F-4310-9B31-BE4F69AC69A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeterinariaForms", "..\VeterinariaForms\VeterinariaForms.csproj", "{64730F73-CE52-4F0D-A281-5998D025F1CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{0AE2C164-4B05-4B4E-A812-92EC783151BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AE2C164-4B05-4B4E-A812-92EC783151BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AE2C164-4B05-4B4E-A812-92EC783151BE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9799E1CF-084F-4310-9B31-BE4F69AC69A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9799E1CF-084F-4310-9B31-BE4F69AC69A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9799E1CF-084F-4310-9B31-BE4F69AC69A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9799E1CF-084F-4310-9B31-BE4F69AC69A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64730F73-CE52-4F0D-A281-5998D025F1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64730F73-CE52-4F0D-A281-5998D025F1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64730F73-CE52-4F0D-A281-5998D025F1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64730F73-CE52-4F0D-A281-5998D025F1CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
